@@ -1,0 +1,29 @@
+#body{
+    background-color: rgb(146, 221, 221);
+}
+#button1{
+    width: 30%;
+}
+.heading1{
+    background-color: white;
+    border-radius:10px;
+    width:30%;
+    height:25%;
+    padding:4px;
+}
+
+#question_box{
+ background-color: white;
+}
+#page{
+    background-color: rgb(146, 221, 221) ;
+}
+#output{
+    background-color: white;
+    width:50%;
+    height: 30%;
+    border-radius: 10px;
+    border-top:10px solid red;
+    text-align:left;
+    padding:10px;
+}
